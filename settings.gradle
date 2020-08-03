@@ -1,0 +1,3 @@
+rootProject.name = 'skheduler'
+
+include 'core'
